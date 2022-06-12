@@ -31,7 +31,7 @@ Below are our plugins:
 - [.NET](https://docs.microsoft.com/en-us/dotnet/)
   - `npm install --save-dev @nx-dotnet/core`
 
-There are also many other [community plugins](https://nx.dev/nx-community) you could add.
+There are also many other [community plugins](https://nx.dev/community#plugin-directory) you could add.
 
 ## Generate an application
 
